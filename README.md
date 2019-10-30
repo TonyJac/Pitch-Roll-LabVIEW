@@ -1,5 +1,2 @@
 # Pitch-Roll-LabVIEW
-A Virtual Instrument that displays pitch and roll values of MPU6050 using Arduino and LINX
-
-The accelerometer readings of the MPU6050 from the Arduino are fed into LabVIEW via LINX framework and calculates the Roll, Pitch values from those readings.
-When the readings cross a particular threshold, different actions can be mapped onto it
+A Virtual Instrument that enables gesture commands based on the roll values using LabVIEW and LINX and a MPU6050 paired with Arduino
